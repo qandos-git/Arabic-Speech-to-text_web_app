@@ -7,4 +7,3 @@ MarkupSafe==1.1.1
 Werkzeug==0.16.0
 SpeechRecognition==3.8.1
 PyAudio==0.2.11
-pipwin==0.5.2
