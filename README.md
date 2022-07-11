@@ -38,6 +38,18 @@ install SpeechRecognition libraries:
 ![2022-07-11 (1)](https://user-images.githubusercontent.com/73133501/178298177-1a9cb8ef-ccda-4b72-867f-a331fce0c377.png)
 
 
+# References:
+
+[SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
+
+[Using SpeechRecognition library](https://drive.google.com/file/d/16C6IJb9iOk4WbRVD8CnKfwaCfxs0qfiC/view)
+
+[Flask SpeechRecognition project](https://www.youtube.com/watch?v=vuaolF-OSGY&list=LL&index=2&ab_channel=TheCodex)
+
+
+
+
+
 
 
 
